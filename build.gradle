@@ -1,16 +1,12 @@
-import javalibrarytemplateplugin.JavaLibraryTemplatePlugin
-
 plugins {
     id 'java'
     id 'maven-publish'
     id 'idea'
 }
 
-apply plugin: JavaLibraryTemplatePlugin
-
 // Information
 
-group = 'ru.vladislav117.javalibrarytemplate'
+group = 'ru.vladislav117.jevent'
 version = '0.0.0'
 
 // Dependencies

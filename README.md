@@ -1,6 +1,6 @@
-# JavaLibraryTemplate
+# JEvent
 
-JavaLibraryTemplate - шаблон java-библиотеки.
+JEvent - java-библиотека с системой событий, основанной на классах.
 
 ## Добавление зависимости
 
@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.Vladislav117:JavaLibraryTemplate:0.0.0'
+    implementation 'com.github.Vladislav117:JEvent:0.0.0'
 }
 ```
 
